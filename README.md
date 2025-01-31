@@ -1,4 +1,4 @@
-# arielbider.github.io
+# CVFR Map for Flight simulation
 Javascript CVFR map based on Leaflet and IAA data for flight planning.
 
 TO BE USED FOR FLIGHT SIMULATION ONLY!
